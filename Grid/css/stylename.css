@@ -1,0 +1,9 @@
+@font-face {
+			font-family: "ArvoRegular";
+			src: url("../fonts/ArvoRegular/ArvoRegular.eot");
+			src: url("../fonts/ArvoRegular/ArvoRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArvoRegular/ArvoRegular.woff") format("woff"),
+			url("../fonts/ArvoRegular/ArvoRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
